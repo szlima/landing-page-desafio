@@ -8,6 +8,11 @@
     text-decoration: none;
 }
 
+body{
+    color: var(--color-main);
+    background-color: var(--color-secondary);
+}
+
 header, main, footer{
     max-width: var(--max-width);
     margin: auto;

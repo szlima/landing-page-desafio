@@ -1,3 +1,7 @@
 :root{
     --max-width: 1440px;
+
+    --color-main: #FFF;
+    --color-secondary: #000;
+    --color-highlight: #33A8DB;
 }
