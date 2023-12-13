@@ -6,4 +6,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
+    padding-top: 60px;
+}
+
+.banner-content{
+    width: 600px;
+    margin: auto;
+    text-align: center;
 }
