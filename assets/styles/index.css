@@ -13,7 +13,6 @@
 .banner-content{
     width: 600px;
     margin: auto;
-    text-align: center;
 }
 
 .banner .logo{
@@ -69,4 +68,9 @@
     background-color: var(--color-highlight);
     color: var(--color-main);
     cursor: pointer;
+}
+
+#course-content{
+    width: 800px;
+    margin: 100px auto;
 }
