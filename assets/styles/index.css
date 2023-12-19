@@ -70,6 +70,10 @@
     cursor: pointer;
 }
 
+main section{
+    margin: 100px auto;
+}
+
 main h2{
     color: var(--color-highlight);
     text-transform: uppercase;
@@ -80,7 +84,6 @@ main h2{
 
 #course-content{
     width: 800px;
-    margin: 100px auto;
 }
 
 #course-content .modules-list{
@@ -100,4 +103,24 @@ main h2{
 
 #course-content .module span{
     color: var(--color-highlight);
+}
+
+#transform-world{
+    background-image: url("../images/woman-code.png");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 560px;
+    padding: 200px;
+    border-width: 1px 0;
+    border-style: solid;
+    border-color: rgba(51, 168, 219, 0.502);
+}
+
+#transform-world p{
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-transform: lowercase;
+    text-align: left;
+    text-shadow: 3px 2px var(--color-highlight);
+    max-width: 250px;
 }
