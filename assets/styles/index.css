@@ -124,3 +124,11 @@ main h2{
     text-shadow: 3px 2px var(--color-highlight);
     max-width: 250px;
 }
+
+#professional-challenges{
+    width: 800px;
+}
+
+#professional-challenges img{
+    margin: 32px 0;
+}
