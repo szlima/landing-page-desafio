@@ -82,3 +82,22 @@ main h2{
     width: 800px;
     margin: 100px auto;
 }
+
+#course-content .modules-list{
+    margin: 24px 0;
+}
+
+#course-content .module{
+    color: var(--color-main);
+    background-color: #252525;
+    width: 530px;
+    padding: 16px;
+    margin: 0 auto 24px;
+    border: 1px solid var(--color-highlight);
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
+
+#course-content .module span{
+    color: var(--color-highlight);
+}
