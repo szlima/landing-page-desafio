@@ -12,8 +12,8 @@
 }
 
 body{
-    color: var(--color-main);
-    background-color: var(--color-secondary);
+    color: var(--color-white-100);
+    background-color: var(--color-black-100);
 }
 
 header, main, footer{
